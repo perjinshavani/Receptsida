@@ -1,8 +1,12 @@
 # Receptsida
 
+## Syfte
+
+Syftet med projektet var att öva på att bygga en responsiv och tillgänglig webbplats med HTML och CSS. Projektet fokuserade på semantisk HTML, CSS Grid, Flexbox, BEM, CSS-variabler och en tydlig kodstruktur.
+
 ## Om projektet
 
-Receptsida är en responsiv webbplats byggd med HTML och CSS. Syftet med projektet var att skapa en modern och tillgänglig webbplats med fokus på semantisk HTML, responsiv design och en tydlig kodstruktur.
+Receptsida är en responsiv webbplats byggd med HTML och CSS. 
 
 ## Funktioner
 
